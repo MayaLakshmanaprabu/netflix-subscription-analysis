@@ -2,6 +2,8 @@
 Netflix Global Subscription Pricing     &amp; Revenue Analysis — ReDI School     Berlin Python Demo Day 2026
 # Netflix Global Subscription Pricing & Revenue Analysis
 
+#test
+
 ## 📋 Project Overview
 Analysis of Netflix subscription pricing 
 across 65 countries and user behavior 
